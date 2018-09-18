@@ -1,0 +1,8 @@
+spring:
+  activemq:
+    in-memory: true
+    pool:
+      enabled: false
+
+
+
